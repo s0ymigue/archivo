@@ -6,6 +6,8 @@ int main (){
     long double Distancia;
 
     Distancia=sqrt(pow((x2 - x1),2) + pow((y2 - y1),2));
+    cout<<"autor=s0ymigue"<<endl;
+    cout<<"emal=pemm080223hdfrnga2@cbtis217.edu.mx"<<endl;
     cout<<"Programa para calcular la distamciaq entre dos puntos"<<endl;
     cout<<"x1="<<x1<<endl;
     cout<<"y1="<<y1<<endl;
