@@ -14,6 +14,8 @@ int main (){
     cout<<"x2="<<x2<<endl;
     cout<<"y2="<<y2<<endl;
     cout<<"La distancia entre los puntos es: "<<Distancia;
+    cout<<"hoy es 14"
+}
 
 
 
