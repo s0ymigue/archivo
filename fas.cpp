@@ -16,6 +16,7 @@ int main (){
     cout<<"La distancia entre los puntos es: "<<Distancia;
     cout<<"hoy es 14";
     cout<<"Cambio 2";
+    cout<<"Cambio 3";
 }
 
 
